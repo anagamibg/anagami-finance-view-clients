@@ -1,0 +1,29 @@
+# Dependencies and build output
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Laravel runtime
+/storage/*.key
+/storage/logs/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+
+# Logs and caches
+*.log
+.phpunit.result.cache
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
