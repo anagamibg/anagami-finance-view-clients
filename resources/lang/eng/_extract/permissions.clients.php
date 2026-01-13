@@ -1,0 +1,41 @@
+<?php
+
+// Client/contract related keys extracted from resources/lang/eng/permissions.php (Anagami Finance View).
+// Merge into the host application's file; do not overwrite it.
+
+return array (
+  'add_clients' => 'Add Clients',
+  'view_clients' => 'View Clients',
+  'edit_clients' => 'Edit Clients',
+  'delete_clients' => 'Delete Clients',
+  'manage_client_category' => 'Manage Client Category',
+  'manage_client_subcategory' => 'Manage Client Subcategory',
+  'add_client_contacts' => 'Add Client Contacts',
+  'view_client_contacts' => 'View Client Contacts',
+  'edit_client_contacts' => 'Edit Client Contacts',
+  'delete_client_contacts' => 'Delete Client Contacts',
+  'add_client_note' => 'Add Client Note',
+  'view_client_note' => 'View Client Note',
+  'edit_client_note' => 'Edit Client Note',
+  'delete_client_note' => 'Delete Client Note',
+  'add_client_document' => 'Add Client Document',
+  'view_client_document' => 'View Client Document',
+  'edit_client_document' => 'Edit Client Document',
+  'delete_client_document' => 'Delete Client Document',
+  'add_contract' => 'Add Contract',
+  'view_contract' => 'View Contract',
+  'edit_contract' => 'Edit Contract',
+  'delete_contract' => 'Delete Contract',
+  'manage_contract_type' => 'Manage Contract Type',
+  'renew_contract' => 'Renew Contract',
+  'add_contract_discussion' => 'Add Contract Discussion',
+  'edit_contract_discussion' => 'Edit Contract Discussion',
+  'view_contract_discussion' => 'View Contract Discussion',
+  'delete_contract_discussion' => 'Delete Contract Discussion',
+  'add_contract_files' => 'Add Contract Files',
+  'view_contract_files' => 'View Contract Files',
+  'delete_contract_files' => 'Delete Contract Files',
+  'manage_contract_template' => 'Manage Contract Template',
+  'view_client_dashboard' => 'View Client Dashboard',
+  'manage_contract_setting' => 'Manage Contract Setting',
+);
