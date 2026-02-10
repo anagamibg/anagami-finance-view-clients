@@ -1,0 +1,41 @@
+<?php
+
+// Client/contract related keys extracted from resources/lang/bg/permissions.php (Anagami Finance View).
+// Merge into the host application's file; do not overwrite it.
+
+return array (
+  'add_clients' => 'Добавяне на клиенти',
+  'view_clients' => 'Преглед на клиенти',
+  'edit_clients' => 'Редактиране на клиенти',
+  'delete_clients' => 'Изтриване на клиенти',
+  'manage_client_category' => 'Управление на категории на клиенти',
+  'manage_client_subcategory' => 'Управление на подкатегории на клиенти',
+  'add_client_contacts' => 'Добавяне на контакти на клиенти',
+  'view_client_contacts' => 'Преглед на контакти на клиенти',
+  'edit_client_contacts' => 'Редактиране на контакти на клиенти',
+  'delete_client_contacts' => 'Изтриване на контакти на клиенти',
+  'add_client_note' => 'Добавяне на бележка към клиент',
+  'view_client_note' => 'Преглед на бележка към клиент',
+  'edit_client_note' => 'Редактиране на бележка към клиент',
+  'delete_client_note' => 'Изтриване на бележка към клиент',
+  'add_client_document' => 'Добавяне на документ на клиент',
+  'view_client_document' => 'Преглед на документ на клиент',
+  'edit_client_document' => 'Редактиране на документ на клиент',
+  'delete_client_document' => 'Изтриване на документ на клиент',
+  'add_contract' => 'Добавяне на договор',
+  'view_contract' => 'Преглед на договор',
+  'edit_contract' => 'Редактиране на договор',
+  'delete_contract' => 'Изтриване на договор',
+  'manage_contract_type' => 'Управление на типове договори',
+  'renew_contract' => 'Подновяване на договор',
+  'add_contract_discussion' => 'Добавяне на дискусия по договор',
+  'edit_contract_discussion' => 'Редактиране на дискусия по договор',
+  'view_contract_discussion' => 'Преглед на дискусия по договор',
+  'delete_contract_discussion' => 'Изтриване на дискусия по договор',
+  'add_contract_files' => 'Добавяне на файлове към договори',
+  'view_contract_files' => 'Преглед на файлове към договори',
+  'delete_contract_files' => 'Изтриване на файлове към договори',
+  'manage_contract_template' => 'Управление на шаблон за договори',
+  'view_client_dashboard' => 'Преглед на таблото за клиенти',
+  'manage_contract_setting' => 'Управление на настройките за договори',
+);
